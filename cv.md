@@ -42,7 +42,8 @@ function duplicateEncode(word){
 
 ### Experience
 
-Сourse JavaScript/Front-end. Stage 0
+My works:
+
  1. [Video player](https://rolling-scopes-school.github.io/nick-2805-JSFEPRESCHOOL/videoPlayer/)
  2. [Random-jokes](https://rolling-scopes-school.github.io/nick-2805-JSFEPRESCHOOL/random-jokes/)
  3. [Movie-app](https://rolling-scopes-school.github.io/nick-2805-JSFEPRESCHOOL/movie-app/)
