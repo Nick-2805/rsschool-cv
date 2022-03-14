@@ -49,7 +49,7 @@ function duplicateEncode(word){
 
 ---
 
- ### Education
+### Education
 
 - **University:**
   - D. Mendeleev University of Chemical Technology of Russia
