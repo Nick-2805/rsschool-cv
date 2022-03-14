@@ -37,6 +37,7 @@ function duplicateEncode(word){
 
 }
 ```
+
 ---
 
 ### Experience
@@ -59,9 +60,9 @@ function duplicateEncode(word){
   - [learn.javascript](https://learn.javascript.ru/)
   - [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
 
-  ---
+---
 
-  ### Languages
+### Languages
 
 - **Russian** - native speaker
 - **English** - A2(B1 in process)
