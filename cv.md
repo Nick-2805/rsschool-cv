@@ -3,6 +3,7 @@
 ---
 
 ### Contacts
+
 - **Location:** Novomoskovsk, Russia
 - **Phone:** +7 910 556 7018
 - **Email:** bingobongo100@bk.ru
@@ -12,7 +13,8 @@
 ---
 
 ### About me
-I have small experience in IT, but I am ready to put a lot of effort into mastering this profession. I so want to change from a factory work to an office! Now I have some skills in HTML,CSS and JS. I completed the course [*"JavaScript/Front-end. Stage 0"*](https://rs.school/js-stage0/)
+
+I have small experience in IT, but I am ready to put a lot of effort into mastering this profession. I so want to change from a factory work to an office! Now I have some skills in HTML,CSS and JS. I completed the course [_"JavaScript/Front-end. Stage 0"_](https://rs.school/js-stage0/)
 
 ---
 
@@ -26,6 +28,7 @@ I have small experience in IT, but I am ready to put a lot of effort into master
 ---
 
 ### Code Example
+
 ```
 function duplicateEncode(word){
     return word
@@ -33,7 +36,7 @@ function duplicateEncode(word){
           .split('')
             .map(function (el, i, arr) {
                 return arr.indexOf(el) == arr.lastIndexOf(el) ? '(' : ')'
-      }).join('')  
+      }).join('')
 
 }
 ```
@@ -44,10 +47,10 @@ function duplicateEncode(word){
 
 My works:
 
- 1. [Video player](https://rolling-scopes-school.github.io/nick-2805-JSFEPRESCHOOL/videoPlayer/)
- 2. [Random-jokes](https://rolling-scopes-school.github.io/nick-2805-JSFEPRESCHOOL/random-jokes/)
- 3. [Movie-app](https://rolling-scopes-school.github.io/nick-2805-JSFEPRESCHOOL/movie-app/)
- 4. [Tic-tac-toe](https://rolling-scopes-school.github.io/nick-2805-JSFEPRESCHOOL/tic-tac-toe/)
+1.  [Video player](https://rolling-scopes-school.github.io/nick-2805-JSFEPRESCHOOL/videoPlayer/)
+2.  [Random-jokes](https://rolling-scopes-school.github.io/nick-2805-JSFEPRESCHOOL/random-jokes/)
+3.  [Movie-app](https://rolling-scopes-school.github.io/nick-2805-JSFEPRESCHOOL/movie-app/)
+4.  [Tic-tac-toe](https://rolling-scopes-school.github.io/nick-2805-JSFEPRESCHOOL/tic-tac-toe/)
 
 ---
 
