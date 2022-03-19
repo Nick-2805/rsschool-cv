@@ -14,7 +14,7 @@
 
 ### About me
 
-I have small experience in IT, but I am ready to put a lot of effort into mastering this profession. I so want to change from a factory work to an office! Now I have some skills in HTML,CSS and JS. I completed the course [_"JavaScript/Front-end. Stage 0"_](https://rs.school/js-stage0/)
+I have small experience in IT, but I am ready to put a lot of effort into mastering this profession. I so want to change from a factory work to an office! Now I have some skills in HTML,CSS and JS. I completed the course [_"JavaScript/Front-end. Stage 0"_](https://rs.school/js-stage0/).
 
 ---
 
